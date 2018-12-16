@@ -1,0 +1,33 @@
+body {
+    background-color: #fcf5ff;
+    color: #233844;
+    font-family: Lato, Verdana, Arial, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #bf7cc8;
+    padding: 20px 30px;
+}
+
+h1 {
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    background-color: #331544;
+    color: transparent;
+    display: inline;
+    font-family: 'Forum', Lato, Verdana, Arial, sans-serif;
+    font-size: 3em;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 0;
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+}
+
+#wrapper {
+    padding: 10px;
+}
